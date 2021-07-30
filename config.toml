@@ -15,7 +15,7 @@ enableEmoji = true
 author = "Hampus Ström"
 description = "Hampus Ström's Blog. Automation PowerShell ConfigMgr Docker Windows Linux"
 keywords = "blog,developer,personal,resume"
-info = ["System Manager", "PowerShell Guru","Homelabber"]
+info = ["Yet another sysadmin"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 footerContent = "Copyright © 2021 Hampus Ström"
@@ -139,12 +139,12 @@ name = "Github"
 weight = 2
 url = "https://github.com/hampusstrom"
 
-[[languages.en.menu.main]]
-name = "About"
-weight = 3
-url = "about/"
+#[[languages.en.menu.main]]
+#name = "About"
+#weight = 3
+#url = "about/"
 
 [[languages.en.menu.main]]
 name = "Contact"
 weight = 4
-url = "contact/"
+url = "/"
