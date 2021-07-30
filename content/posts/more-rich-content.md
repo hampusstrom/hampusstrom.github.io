@@ -1,4 +1,5 @@
 +++
+draft = "true"
 author = "Hugo Authors"
 title = "More Rich Content"
 date = "2019-03-09"
